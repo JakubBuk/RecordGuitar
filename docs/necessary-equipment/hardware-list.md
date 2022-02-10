@@ -2,7 +2,7 @@
 layout: default
 title: Hardware list
 nav_order: 1
-parent: necessary-equipment
+parent: Necessary equipment
 ---
 
 ### Hardware list:
