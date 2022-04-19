@@ -9,7 +9,7 @@ color_scheme: test_jbuk
 
 aux_links:
   "Source repository on GitHub":
-    - "https://github.com/JakubBuk/RecordGuitar"
+    - "//github.com/JakubBuk/RecordGuitar"
 
 back_to_top: true
 back_to_top_text: "Back to top"
