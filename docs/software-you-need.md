@@ -8,6 +8,7 @@ description: "software for recording"
 ---
 ## **2. Software**:
 
+
 **VST plug-in**. It will allow you to model the guitar sounds in the way you want. Numerous free and paid software options are available on the market.
 
 **DAW workstation** (to record the guitar with your VST pug-ins embedded and to arrange your guitar tracks). You can pick from a great choice of industry standards, but be warned - they are pricey!
