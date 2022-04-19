@@ -5,7 +5,7 @@ nav_order: 2
 description: "hardware for recording"
 ---
 
-### Hardware list:
+### 1. Hardware list:
 
 1. **Electric guitar/bass**
 
