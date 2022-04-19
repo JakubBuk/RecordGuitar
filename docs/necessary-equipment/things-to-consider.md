@@ -2,7 +2,7 @@
 layout: default
 title: Things to consider
 nav_order: 3
-parent: necessary-equipment
+parent: Necessary equipment
 ---
 
 #### Things to consider:
