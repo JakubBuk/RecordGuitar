@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Setting up a VST plug-in - Amplitube 4
+title: VST setup - Amplitube 4
 nav_order: 6
 description: "VST plug-in setup"
 

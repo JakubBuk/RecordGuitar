@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Setting up a DAW - Studio One 5
+title: DAW setup - Studio One 5
 nav_order: 7
 description: "Digital Audio Workstation setup"
 
