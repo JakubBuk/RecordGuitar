@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How to record
-nav_order: 4
+nav_order: 5
 ---
 
 ## **4. How to record**
