@@ -2,6 +2,7 @@ name: JB
 title: Record electric guitar on PC
 description: An easy guide for home recording
 remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
+baseurl: /JakubBuk/RecordGuitar
 
 color_scheme: test_jbuk
 
