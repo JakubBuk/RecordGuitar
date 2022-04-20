@@ -7,6 +7,6 @@ parent: DAW setup
 grand_parent: Recording
 ---
 
-**Step four - record a solo and arrange your tracks**
+**Step 4 - record a solo and arrange your tracks**
 
 Great fun!

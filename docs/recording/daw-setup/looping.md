@@ -7,6 +7,6 @@ parent: DAW setup
 grand_parent: Recording
 ---
 
-**Step three - loop your track**
+**Step 3 - loop your track**
 
 Great fun!

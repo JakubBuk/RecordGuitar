@@ -7,6 +7,6 @@ parent: DAW setup
 grand_parent: Recording
 ---
 
-**Step two - add sound effects**
+**Step 2 - add sound effects**
 
 Great fun!
