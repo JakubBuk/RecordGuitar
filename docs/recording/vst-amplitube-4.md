@@ -1,7 +1,8 @@
 ---
 layout: default
 title: VST setup - Amplitube 4
-nav_order: 6
+nav_order: 1
+parent: Recording
 description: "VST plug-in setup"
 
 ---
