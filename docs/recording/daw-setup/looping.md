@@ -29,6 +29,8 @@ A strip will pop up. I usually cut the end trails and sometimes the beginning. T
 
   ![Studio One 5 - choose plug-ins](../../../assets/images/so5_19_zoomed.png)
 
+The loop is now set and can serve as a backing track for improvisation/solo tracks
+
 
 
 

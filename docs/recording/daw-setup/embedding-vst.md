@@ -9,7 +9,7 @@ grand_parent: Recording
 
 **Embedding a 3rd party VST plug-in Studio One 5**
 
-> To be able to use 3rd party plug-ins in Studio One 5 you need Artist varsion or higher.
+> To be able to use 3rd party plug-ins in Studio One 5 you need Artist version or higher.
 
 To add 3rd party VST plug-ins go to Studio One > Options. A new window will pop up. Choose Locations and VST Plug-Ins tab. Provide the folder where you store your VSTs. Go back to the main window 
 
