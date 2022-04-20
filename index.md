@@ -20,6 +20,4 @@ To simplify the process, the instruction focuses exclusively on recording instru
 
 Rest assured, using this method doesn’t mean giving up on functionality.  The idea is to enable you to record, mix and produce instrument tracks, to what extent - depends largely on the software you choose for it.
 
-![Studio One 5 - starting screen](/assets/images/so5_01_welcome.png)
-
 > The example provided in this guide is based on Windows 10 platform, but similar steps apply to iOS and other operating systems.
