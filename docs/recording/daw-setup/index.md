@@ -9,4 +9,4 @@ description: "Digital Audio Workstation setup"
 
 ## **How to set up a DAW fast - Studio One 5**
 
-![Studio One 5 - starting screen](/assets/images/so5-01-welcome.png)
+![Studio One 5 - starting screen](/assets/images/so5_01_welcome.png)
