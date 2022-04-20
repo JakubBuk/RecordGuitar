@@ -7,7 +7,7 @@ parent: DAW setup
 grand_parent: Recording
 ---
 
-**Embedding a 3rd party VST plug-in Studio One 5**
+## **Embedding a 3rd party VST plug-in Studio One 5**
 
 > To be able to use 3rd party plug-ins in Studio One 5 you need Artist version or higher.
 

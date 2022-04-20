@@ -7,7 +7,7 @@ parent: DAW setup
 grand_parent: Recording
 ---
 
-**Layering multiple tracks in Studio One 5**
+## **Layering multiple tracks in Studio One 5**
 
 To add another take to the track, hit return and record again
 

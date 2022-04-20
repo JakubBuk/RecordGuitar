@@ -7,7 +7,7 @@ parent: DAW setup
 grand_parent: Recording
 ---
 
-**Looping a recorded track in Studio One 5**
+## **Looping a recorded track in Studio One 5**
 
 To loop, you can select the whole recorded track or a selection of it – to do that hover over the track and click + drag the selection
 
