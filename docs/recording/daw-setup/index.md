@@ -2,7 +2,8 @@
 layout: default
 title: DAW setup - Studio One 5
 nav_order: 2
-parent: Recording
+parent: Daw setup
+has_children: true
 description: "Digital Audio Workstation setup"
 ---
 
