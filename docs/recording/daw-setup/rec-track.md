@@ -7,7 +7,7 @@ parent: DAW setup
 grand_parent: Recording
 ---
 
-**Recording a new track**
+## **Recording a new track in Studio One 5**
 
 Start with an empty song. You can choose one of the templates provided by the program 
 

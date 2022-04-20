@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Layering multiple tracks
-nav_order: 4
+nav_order: 3
 description: "arrange multiple tracks"
 parent: DAW setup
 grand_parent: Recording
