@@ -18,20 +18,20 @@ To add 3rd party VST plug-ins go to Studio One > Options. A new window will pop 
 
 Go to the panel on the right. The available VST plug-ins are listed under Effects
 
- ![Studio One 5 - choose plug-ins](../../../assets/images/so5_11_plugins.png)
+ ![Studio One 5 - VST list](../../../assets/images/so5_11_plugins.png)
 
 
 Take the one you want to use, drag it and drop into the Inserts field of your track in Console view
 
- ![Studio One 5 - choose plug-ins](../../../assets/images/so5_12_dragvst.png)
+ ![Studio One 5 - VST drag](../../../assets/images/so5_12_dragvst.png)
 
 
 You can see the embedded VST for each track in Console view
 
-  ![Studio One 5 - choose plug-ins](../../../assets/images/so5_13_console.png)
+  ![Studio One 5 -VST console](../../../assets/images/so5_13_console.png)
 
 
 Your VST will pop up in a new window. Set it up for each track
 
- ![Studio One 5 - choose plug-ins](../../../assets/images/so5_14_a4.png)
+ ![Studio One 5 - Amplitube 4](../../../assets/images/so5_14_a4.png)
 
