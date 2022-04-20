@@ -1,13 +1,11 @@
 ---
 layout: default
 title: Software you need
-nav_order: 3
+nav_order: 2
+parent: Initial setup
 description: "software for recording"
-
-
 ---
 ## **2. Software**:
-
 
 **VST plug-in**. It will allow you to model the guitar sounds in the way you want. Numerous free and paid software options are available on the market.
 

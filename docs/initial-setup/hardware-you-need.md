@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Hardware you need
-nav_order: 2
+nav_order: 1
+parent: Initial setup
 description: "hardware for recording"
 ---
 
