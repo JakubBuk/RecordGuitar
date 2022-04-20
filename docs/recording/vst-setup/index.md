@@ -1,8 +1,8 @@
 ---
 layout: default
-title: VST setup - Amplitube 4
+title: VST setup
 nav_order: 1
-parent: Vst setup
+parent: VST setup
 has_children: true
 description: "VST plug-in setup"
 
