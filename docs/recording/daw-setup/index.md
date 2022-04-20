@@ -2,7 +2,7 @@
 layout: default
 title: DAW setup
 nav_order: 2
-parent: DAW setup
+parent: Recording
 has_children: true
 description: "Digital Audio Workstation setup"
 ---

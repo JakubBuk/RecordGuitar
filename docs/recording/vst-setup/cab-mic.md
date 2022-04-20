@@ -3,7 +3,7 @@ layout: default
 title: Cab and mic setup
 nav_order: 2
 description: "choosing cab and mic"
-parent: Vst setup
+parent: VST setup
 grand_parent: Recording
 ---
 

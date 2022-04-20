@@ -3,7 +3,7 @@ layout: default
 title: Effects chain
 nav_order: 1
 description: "order of effects"
-parent: Vst setup
+parent: VST setup
 grand_parent: Recording
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 title: VST setup
 nav_order: 1
-parent: VST setup
+parent: Recording
 has_children: true
 description: "VST plug-in setup"
 

@@ -3,7 +3,7 @@ layout: default
 title: Recording a new track
 nav_order: 1
 description: "recording first tracks"
-parent: Daw setup
+parent: DAW setup
 grand_parent: Recording
 ---
 
