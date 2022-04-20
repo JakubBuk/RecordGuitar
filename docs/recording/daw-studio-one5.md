@@ -6,4 +6,4 @@ parent: Recording
 description: "Digital Audio Workstation setup"
 ---
 
-## **6. How to set up a DAW fast - Studio One 5**
+## **How to set up a DAW fast - Studio One 5**

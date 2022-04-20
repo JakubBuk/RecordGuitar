@@ -7,4 +7,4 @@ description: "VST plug-in setup"
 
 ---
 
-## **5. How to set up a VST plug-in fast - Amplitube 4**
+## **How to set up a VST plug-in fast - Amplitube 4**

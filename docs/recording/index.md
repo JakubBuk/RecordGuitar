@@ -5,7 +5,7 @@ nav_order: 3
 has_children: true
 ---
 
-# **How to record**
+## **How to record**
 
 On a computer:
 
