@@ -12,4 +12,5 @@ description: "Digital Audio Workstation setup"
 ![Studio One 5 - starting screen](/images/so5_01_welcome.png)
 
 (/assets/images/so5_01_welcome.png)
+(/assets/images/so5_01_welcome.png)
 
