@@ -11,7 +11,7 @@ grand_parent: Recording
 
 Recorder and Looper are useful bonus tools for recording tracks
 
-Recorder has eight tracks available with panning and basic EQ for each. You can change the poistion of each track by dragging it across the grid. You can easily loop a selection and record a solo track over the looped playback, duplicate selected tracks and then export your creation to a .wav file
+Recorder has eight tracks available with panning and basic EQ for each. You can change the position of each track by dragging it across the grid. You can easily loop a selection and record a solo track over the looped playback, duplicate selected tracks and then export your creation to a .wav file
 
  ![AmpliTube4 - getting started](../../../assets/images/a4_18_rec1.png)
 
