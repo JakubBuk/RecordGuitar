@@ -7,9 +7,9 @@ parent: VST setup
 grand_parent: Recording
 ---
 
-## **Creating a virtual chain of effects**
+## **Creating a virtual chain of effects in AmpliTube4**
 
-Let's model the sound of the instrument. Hit PRESET BROWSER to choose a pre-defined amp&effect preset or create your own preset
+Let's model the sound of the instrument. Hit PRESET BROWSER to choose a pre-defined amp and effect preset or create your own preset
 
  ![AmpliTube4 - getting started](../../../assets/images/a4_02_preset.png)
 
