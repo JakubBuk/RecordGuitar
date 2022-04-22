@@ -15,17 +15,17 @@ To add another take to the track, hit return and record again
 
 To choose which take should be active in the track click on the little hamburger menu at the beginning of each layer section
 
- ![Studio One 5 - active take](../../../assets/images/so5_21_takeham.png)
+ ![Studio One 5 - active take](../../../assets/images/so5_21_takehampp.png)
 
- ![Studio One 5 - active take closeup](../../../assets/images/so5_22_takehamcut.png)
+ ![Studio One 5 - active take closeup](../../../assets/images/so5_22_takehamcutpp.png)
 
 Switch off snap to grid to move tracks freely across the time axis or switch on to lock tracks with the predefined grid
 
- ![Studio One 5 - snap to grid](../../../assets/images/so5_23_snaptogrid.png)
+ ![Studio One 5 - snap to grid](../../../assets/images/so5_23_snaptogridpp.png)
 
 I prefer it off
 
- ![Studio One 5 - grid off](../../../assets/images/so5_24_gridoff.png)
+ ![Studio One 5 - grid off](../../../assets/images/so5_24_gridoffpp.png)
 
 Time to add tracks. Hit T and arm the new track. Record a solo or a second rhythm track
 
@@ -41,7 +41,7 @@ A new panel pops up
 
 Move the blue sliders left, right or keep them centered. I panned my rhythm track a bit to the right and the solo to far left to give the part some aural depth
 
- ![Studio One 5 - sliders](../../../assets/images/so5_28_sliders.png)
+ ![Studio One 5 - sliders](../../../assets/images/so5_28_sliderspp.png)
 
 The main window is getting busier
 
