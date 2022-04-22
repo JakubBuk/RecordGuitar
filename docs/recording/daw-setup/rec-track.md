@@ -38,7 +38,7 @@ You can also switch between mono and stereo recording. For now, leave it at mono
 
 Click on the small dot at the bottom of the screen to enable precount. It will give you some time to grab the guitar after pressing record
 
- ![Studio One 5 - setting precount](../../../assets/images/so5_07_precount.png)
+ ![Studio One 5 - setting precount](../../../assets/images/so5_07_precountpp.png)
 
 
 Multiple takes can be recorded for each track

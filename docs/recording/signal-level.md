@@ -22,7 +22,7 @@ Amplifier panels in Amp A and B sections usually have at least one volume regula
 
  Recorder section on the left side has a separate volume slider as well
 
- ![AmpliTube4 - getting started](../../assets/images/a4_27_amppanel2.png)
+ ![AmpliTube4 - getting started](../../assets/images/a4_27_amppanel2pp.png)
 
 Effects in Stomp A and B often have individual volume regulations
 

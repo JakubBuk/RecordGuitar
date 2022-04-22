@@ -17,7 +17,7 @@ Then go to Transport, choose Loop Active
 
  ![Studio One 5 - activate loop](../../../assets/images/so5_16_loopact.png)
 
-Click on the loop and hit play to hear the looped selection
+Click on the loop symbol and hit play to hear the looped selection
 
  ![Studio One 5 - loop playback](../../../assets/images/so5_17_playloop.png)
 
