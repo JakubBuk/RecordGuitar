@@ -59,7 +59,7 @@ Don't forget your guitar has one too!
 
  ![AmpliTube4 - getting started](../../assets/images/stratvol1.png)
 
-Bottom line is you have to keep the instrument volume as loud as it can get to have the best signal to noise ratio but at the same time keep it control to avoid clipping.
+Bottom line is you have to keep the instrument volume as loud as it can get to have the best signal to noise ratio but at the same time keep it in control to avoid clipping.
 
  
 
