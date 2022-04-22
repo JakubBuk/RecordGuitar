@@ -47,6 +47,8 @@ Multiple takes can be recorded for each track
 
  [![Studio One 5 -  multiple takes](../../../assets/images/so5_08_takes.png)](../../../assets/images/so5_08_takes.jpg)
 
+  [![Studio One 5 -  multiple takes](../../../assets/images/so5_08_takes.jpg)](../../../assets/images/so5_08_takes.jpg)
+
 
 To preview your record, hit return, then play
 
