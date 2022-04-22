@@ -23,7 +23,7 @@ Each track can be armed with R, muted with M, soloed with S and modded with FX w
 
  ![AmpliTube4 - getting started](../../../assets/images/a4_20_trackfx.png)
 
-The green bar at the top shows my loop selection. You can drag it to the desired length
+The green bar at the top shows the loop selection. You can drag it to the desired length
 
  ![AmpliTube4 - getting started](../../../assets/images/a4_21_trackloop.png)
 
