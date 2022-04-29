@@ -12,15 +12,15 @@ description: "Useful terms"
 
 **Amp modeling** - the process of emulating a physical guitar amplifier and applying it to the signal in order to recreate the sound of a specific amplifier model. Done by digital signal processing and used in guitar software.
 
-**Audio in** - the input for the signal path in audio devices.
+**Audio in** - the input for the signal path in audio devices
 
 **Audio interface/Guitar interface/Recording interface** - a device connecting your guitar to computer and converting instrument signals into a format your computer and software recognize. The interface also routes audio from your computer out to your headphones and studio monitors/audio reference. Interfaces typically connect to your computer via USB cables.
 
 **Audio latency** - a delay in the instrument signal reproduction introduced by digital processing. It shouldn’t be an issue on modern computer platforms using Windows 10 or newer.
 
-**Audio out** - the output for the signal path in audio devices.
+**Audio out** - the output for the signal path in audio devices
 
-**Audio reference setup** - any speaker system chosen for presenting the sonic output of your guitar recording setup. Typically, it would be a stereo system with two passive speaker sets and amplification, essentially - your home audio. Alternatively, a more professional option would be active studio monitors designed for record production. 
+**Audio reference setup** - any speaker system chosen for presenting the sonic output of your guitar recording setup. Typically, it would be a stereo system with two passive speaker sets and amplification, essentially - your home audio. Alternatively, a more professional option would be active studio monitors designed for record production.
 
 **AUX** - an auxiliary port is a type of standard connector that accommodates audio signals on audio devices
 
@@ -32,7 +32,7 @@ description: "Useful terms"
 
 **Effect modeling** - the process of emulating a guitar effect pedal and applying it to the signal in order to recreate the sound of a specific guitar effect model. Done by digital signal processing and used in guitar software. It allows to create an effects chain, connecting multiple emulated effect devices in various configurations.
 
-**Embedding the VST plug-in in DAW** - it essentially means connecting the track you record in DAW with a certain VST plug-in you want to use.
+**Embedding the VST plug-in in DAW** - connecting the track you record in DAW with a certain VST plug-in you want to use
 
 ### G
 
@@ -40,17 +40,17 @@ description: "Useful terms"
 
 ### J
 
-**Jack plug** - 6.3mm Jack is the guitar/bass connector standard.
+**Jack plug** - 6.3mm Jack is the guitar/bass connector standard
 
 ### L
 
-**Line in** - the input for the signal path in audio devices.
+**Line in** - the input for the signal path in audio devices
 
-**Line out** - the output for the signal path in audio devices.
+**Line out** - the output for the signal path in audio devices
 
 ### M
 
-**mini Jack plug** - 3.5mm connector that is commonly used in home audio devices and headphones.
+**mini Jack plug** - 3.5mm connector that is commonly used in home audio devices and headphones
 
 ### R
 
@@ -62,15 +62,15 @@ description: "Useful terms"
 
 **Signal path** - the route a particular signal takes through a chain of electronic components on the way to its destination. In audio, it’s usually about connecting different pieces of equipment together and routing signals through them.
 
-**Snap to grid** - an option in music production software that aligns your tracks to a predefined time measure or 'grid' when you move them across the time axis of your audio project. 
+**Snap to grid** - an option in music production software that aligns your tracks to a predefined time measure or 'grid' when you move them across the time axis of your audio project 
 
-**Stompboxes** - also known as guitar effect pedals are foot operated boxes that provide sound effects and tone shaping for electric guitars.
+**Stompboxes** - also known as guitar effect pedals are foot operated boxes that provide sound effects and tone shaping for electric guitars
 
 ### U
 
-**USB 2.0/3.x (type A)** - common connector standard for computer devices.
+**USB 2.0/3.x (type A)** - common connector standard for computer devices
 
-**USB C** - emerging new connector standard for computer devices.
+**USB C** - emerging new connector standard for computer devices
 
 ### V
 
